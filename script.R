@@ -4,3 +4,4 @@ View(Data_Science_Fields_Salary_Categorization)
 
 #Prueba con la base de datos.
 
+hola<- "hola"
