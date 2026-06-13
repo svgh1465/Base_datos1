@@ -7,3 +7,4 @@ View(Data_Science_Fields_Salary_Categorization)
 hola<- "hola"
 
 comando<- "hola prueba numero 2"
+2+2
